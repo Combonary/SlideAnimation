@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slide Animation</string>
+    <string name="activity_one">This is Activity 1</string>
+    <string name="open_two">Open Activity 2</string>
+    <string name="activity_two">This is activity 2</string>
+    <string name="open_activity_3">Open Activity 3</string>
+    <string name="this_is_activity_3">This is Activity 3</string>
+</resources>
